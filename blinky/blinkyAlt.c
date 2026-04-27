@@ -1,3 +1,5 @@
+// this is my version simply just typing it up from memory but using the bare minimum to make the led blink. 
+// i wanted to see what parts of the code were absolutely necessary to make the blinking led, and what parts were there just for precautionary measures
 #include <stdint.h>
 #include <stdbool.h>
 #include "C:/ti/TivaWare_C_Series-2.2.0.295/inc/hw_memmap.h"
