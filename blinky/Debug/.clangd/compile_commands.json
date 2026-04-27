@@ -1,0 +1,12 @@
+[
+   {
+      "directory" : "C:/Users/patel/workspace_ccstheia/blinky/Debug",
+      "command"   : "clang++ -I\"C:/Users/patel/workspace_ccstheia/blinky\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C1294NCPDT -xc",
+      "file"      : "C:/Users/patel/workspace_ccstheia/blinky/startup_ccs.c"
+   },
+   {
+      "directory" : "C:/Users/patel/workspace_ccstheia/blinky/Debug",
+      "command"   : "clang++ -I\"C:/Users/patel/workspace_ccstheia/blinky\" -I\"C:/ti/ccs2050/ccs/tools/compiler/ti-cgt-arm_20.2.7.LTS/include\" -Dccs=\"ccs\" -DPART_TM4C1294NCPDT -xc",
+      "file"      : "C:/Users/patel/workspace_ccstheia/blinky/blinkyAlt.c"
+   }
+]
